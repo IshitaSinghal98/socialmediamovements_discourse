@@ -18,4 +18,4 @@ This project employs Computational Social Science methods to examine the linguis
 * **Statistical Logic:** Scikit-Learn (Classification), Descriptive Statistics
 
 ## Research Context
-This work was developed as part of a broader research agenda at the University of Chicago and UC Irvine, focusing on social cognition, structural privilege, and the behavioral consequences of online social movements.
+This work was developed as part of my research and academic coursework at University of Chicago (2021), focusing on social cognition, structural privilege, and the behavioral consequences of online social movements.
